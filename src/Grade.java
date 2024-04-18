@@ -13,7 +13,6 @@ public class Grade implements Serializable
         this.semester = semester;
         this.grade = grade;
     }
-
     public String getSubject()
     {
         return subject;
